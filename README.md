@@ -3,6 +3,7 @@
 ### Description
 This project implements a simple Hamra walking guide. The program keeps asking the user for the name of the source and destination until valid names are inputted. The name input should match the names of the points found in the map (case sensitive). After valid input is received, **Dijkstra**’s algorithm is applied to find the shortest path. Then, the path is printed along with directions and distances.
 
+![hamra-map](https://github.com/Ayk-12/hamra-walking-guide/blob/main/hamra-map.png)
 
 ### Example
 ``` 
